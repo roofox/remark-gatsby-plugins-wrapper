@@ -16,5 +16,9 @@
   "license": "MIT",
   "repository": {
     "url": "https://github.com/roofox/remark-gatsby-plugins-wrapper"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/roofox/remark-gatsby-plugins-wrapper/issues"
+  },
+  "homepage": "https://github.com/roofox/remark-gatsby-plugins-wrapper#readme"
 }
