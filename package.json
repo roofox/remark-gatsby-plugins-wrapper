@@ -1,0 +1,24 @@
+{
+  "name": "@roofox/remark-gatsby-plugins-wrapper",
+  "version": "0.1.0",
+  "description": "A Remark plugin to support gatsby-remark-* plugins",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remark",
+    "markdown",
+    "gastby",
+    "remark-plugin"
+  ],
+  "author": "Sergio Flores <sergio@byoigr.es",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/roofox/remark-gatsby-plugins-wrapper"
+  },
+  "bugs": {
+    "url": "https://github.com/roofox/remark-gatsby-plugins-wrapper/issues"
+  },
+  "homepage": "https://github.com/roofox/remark-gatsby-plugins-wrapper#readme"
+}
